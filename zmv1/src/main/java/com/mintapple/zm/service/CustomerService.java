@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.cache.annotation.Cacheable;
 
-import com.mintapple.Entity.Customer;
+import com.mintapple.entity.Customer;
 
 
 public interface CustomerService {

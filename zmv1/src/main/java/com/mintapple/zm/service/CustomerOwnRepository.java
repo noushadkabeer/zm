@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.Repository;
 
-import com.mintapple.Entity.Customer;
+import com.mintapple.entity.Customer;
 
 
 public interface CustomerOwnRepository extends Repository<Customer, Long>{

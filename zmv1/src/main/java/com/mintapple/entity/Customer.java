@@ -1,4 +1,4 @@
-package com.mintapple.Entity;
+package com.mintapple.entity;
 
 import java.io.Serializable;
 
